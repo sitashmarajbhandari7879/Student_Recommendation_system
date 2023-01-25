@@ -10,9 +10,9 @@
 | Task  | Responsibility| Status |Comment|
 | ------------- | ------------- | ------------- | ------------- |
 | Find DBMS most compatible for us | All  |In progress| |
-| Fetch the subject’s data from the Handbook using python  | Sitashma  | Completed| One exception handling remaining|
+| Fetch the subject’s data from the Handbook using python  | Sitashma  | pending| One exception handling remaining|
 | Create database in excel| Sitashma |Open| |
-|  Create usecase diagrams| Evi |Completed| |
+| Create usecase diagrams| Evi |Completed| |
 | Write basic draft to submit | Evi  | Completed| |
 |Identify all research questions | All  | In progress| |
 
