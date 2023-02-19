@@ -10,7 +10,7 @@
 | Task  | Responsibility| Status |Comment|
 | ------------- | ------------- | ------------- | ------------- |
 | Find DBMS most compatible for us | All  |In progress| |
-| Fetch the subject’s data from the Handbook using python  | Sitashma  | pending| One exception handling remaining|
+| Fetch the subject’s data from the Handbook using python  | Sitashma  | completed|Make a genenal fxn which can <p> convert any pdf into table give few para|
 | Create database in excel| Sitashma |Open| |
 | Create usecase diagrams| Evi |Completed| |
 | Write basic draft to submit | Evi  | Completed| |
