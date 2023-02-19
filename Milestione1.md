@@ -10,11 +10,13 @@
 | Task  | Responsibility| Status |Comment|
 | ------------- | ------------- | ------------- | ------------- |
 | Find DBMS most compatible for us | All  |In progress| |
-| Fetch the subject’s data from the Handbook using python  | Sitashma  | completed|Make a genenal fxn which can <p> convert any pdf into table give few para|
+| Fetch the subject’s data from the Handbook using python  | Sitashma  | completed|
 | Create database in excel| Sitashma |Open| |
 | Create usecase diagrams| Evi |Completed| |
 | Write basic draft to submit | Evi  | Completed| |
 |Identify all research questions | All  | In progress| |
+|Research on code for recommender system | All  | open| |
+|Make a genenal fxn for the code|Sitashma||
 
 
 
